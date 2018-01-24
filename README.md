@@ -8,7 +8,7 @@ if(typeof(a)=="number"&& typeof(b)=="number"{
 }else{
     alert(Error!)
 })
-```
+
 ## This is a subheading 
 Under here is really interesting information in English or another language that is not fake Latin.
 
